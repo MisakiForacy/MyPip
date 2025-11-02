@@ -1,0 +1,3 @@
+[COMMAND] : "C:\Program Files\Python\Python310\python.exe" -m pip install pip
+Requirement already satisfied: pip in c:\program files\python\python310\lib\site-packages (25.3)
+[End] : Successful !!!

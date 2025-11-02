@@ -1,0 +1,56 @@
+[COMMAND] : "" -m pip install --upgrade 
+'""' is not recognized as an internal or external command,
+
+operable program or batch file.
+
+[End] : Successful !!!
+[COMMAND] : "C:\Program Files\Python\Python310\python.exe" -m pip install --upgrade pip
+Requirement already satisfied: pip in c:\program files\python\python310\lib\site-packages (25.3)
+
+[End] : Successful !!!
+[COMMAND] : "C:\Program Files\Python\Python310\python.exe" -m pip show pip
+Name: pip
+
+Version: 25.3
+
+Summary: The PyPA recommended tool for installing Python packages.
+
+Home-page: https://pip.pypa.io/
+
+Author: 
+
+Author-email: The pip developers <distutils-sig@python.org>
+
+License-Expression: MIT
+
+Location: c:\program files\python\python310\lib\site-packages
+
+Requires: 
+
+Required-by: 
+
+[End] : Successful !!!
+[COMMAND] : ping bing.com
+
+
+Pinging bing.com [2620:1ec:33:1::10] with 32 bytes of data:
+
+Reply from 2620:1ec:33:1::10: time=72ms 
+
+Reply from 2620:1ec:33:1::10: time=87ms 
+
+Reply from 2620:1ec:33:1::10: time=72ms 
+
+Reply from 2620:1ec:33:1::10: time=71ms 
+
+
+
+Ping statistics for 2620:1ec:33:1::10:
+
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+
+Approximate round trip times in milli-seconds:
+
+    Minimum = 71ms, Maximum = 87ms, Average = 75ms
+
+[End] : Successful !!!

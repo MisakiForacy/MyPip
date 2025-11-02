@@ -1,0 +1,61 @@
+[COMMAND] : "C:\Program Files\Python\Python310\python.exe" -m pip install pip
+Requirement already satisfied: pip in c:\program files\python\python310\lib\site-packages (25.3)
+[End] : Successful !!!
+[COMMAND] : "C:\Program Files\Python\Python310\python.exe" -m pip install --upgrade pip
+Requirement already satisfied: pip in c:\program files\python\python310\lib\site-packages (25.3)
+[End] : Successful !!!
+[COMMAND] : ping bing.com
+
+Pinging bing.com [2620:1ec:33::10] with 32 bytes of data:
+Reply from 2620:1ec:33::10: time=65ms 
+Reply from 2620:1ec:33::10: time=66ms 
+Reply from 2620:1ec:33::10: time=65ms 
+Reply from 2620:1ec:33::10: time=67ms 
+
+Ping statistics for 2620:1ec:33::10:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 65ms, Maximum = 67ms, Average = 65ms
+[End] : Successful !!!
+[COMMAND] : ping bing.com
+
+Pinging bing.com [2620:1ec:33::10] with 32 bytes of data:
+Reply from 2620:1ec:33::10: time=65ms 
+Reply from 2620:1ec:33::10: time=66ms 
+Reply from 2620:1ec:33::10: time=66ms 
+Reply from 2620:1ec:33::10: time=65ms 
+
+Ping statistics for 2620:1ec:33::10:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 65ms, Maximum = 66ms, Average = 65ms
+[End] : Successful !!!
+[COMMAND] : "C:\Program Files\Python\Python310\python.exe" -m pip show pip
+Name: pip
+Version: 25.3
+Summary: The PyPA recommended tool for installing Python packages.
+Home-page: https://pip.pypa.io/
+Author: 
+Author-email: The pip developers <distutils-sig@python.org>
+License-Expression: MIT
+Location: c:\program files\python\python310\lib\site-packages
+Requires: 
+Required-by: 
+[End] : Successful !!!
+[COMMAND] : "C:\Program Files\Python\Python310\python.exe" -m pip install markdown2
+Collecting markdown2
+  Downloading markdown2-2.5.4-py3-none-any.whl.metadata (2.1 kB)
+Downloading markdown2-2.5.4-py3-none-any.whl (49 kB)
+Installing collected packages: markdown2
+Successfully installed markdown2-2.5.4
+[End] : Successful !!!
+[COMMAND] : "C:\Program Files\Python\Python314\python.exe" -m pip install markdown2
+Defaulting to user installation because normal site-packages is not writeable
+Collecting markdown2
+  Using cached markdown2-2.5.4-py3-none-any.whl.metadata (2.1 kB)
+Using cached markdown2-2.5.4-py3-none-any.whl (49 kB)
+Installing collected packages: markdown2
+  WARNING: The script markdown2.exe is installed in 'C:\Users\Foracy\AppData\Roaming\Python\Python314\Scripts' which is not on PATH.
+  Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.
+Successfully installed markdown2-2.5.4
+[End] : Successful !!!
