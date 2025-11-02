@@ -1,0 +1,51 @@
+[COMMAND] : "C:\Program Files\Python\Python310\python.exe" -m pip install Pyinstaller
+Collecting Pyinstaller
+  WARNING: Retrying (Retry(total=4, connect=None, read=None, redirect=None, status=None)) after connection broken by 'SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1007)'))': /packages/aa/99/2005efbc297e7813c1d6f18484aa94a1a81ce87b6a5b497c563681f4c4ea/pyinstaller-6.16.0-py3-none-win_amd64.whl.metadata
+  Downloading pyinstaller-6.16.0-py3-none-win_amd64.whl.metadata (8.5 kB)
+Collecting altgraph (from Pyinstaller)
+  Downloading altgraph-0.17.4-py2.py3-none-any.whl.metadata (7.3 kB)
+Requirement already satisfied: packaging>=22.0 in c:\program files\python\python310\lib\site-packages (from Pyinstaller) (25.0)
+Collecting pefile!=2024.8.26,>=2022.5.30 (from Pyinstaller)
+  Downloading pefile-2023.2.7-py3-none-any.whl.metadata (1.4 kB)
+Collecting pyinstaller-hooks-contrib>=2025.8 (from Pyinstaller)
+  Downloading pyinstaller_hooks_contrib-2025.9-py3-none-any.whl.metadata (16 kB)
+Collecting pywin32-ctypes>=0.2.1 (from Pyinstaller)
+  Downloading pywin32_ctypes-0.2.3-py3-none-any.whl.metadata (3.9 kB)
+Requirement already satisfied: setuptools>=42.0.0 in c:\program files\python\python310\lib\site-packages (from Pyinstaller) (65.5.0)
+Downloading pyinstaller-6.16.0-py3-none-win_amd64.whl (1.4 MB)
+   ---------------------------------------- 1.4/1.4 MB 2.6 MB/s  0:00:00
+Downloading pefile-2023.2.7-py3-none-any.whl (71 kB)
+Downloading pyinstaller_hooks_contrib-2025.9-py3-none-any.whl (444 kB)
+Downloading pywin32_ctypes-0.2.3-py3-none-any.whl (30 kB)
+Downloading altgraph-0.17.4-py2.py3-none-any.whl (21 kB)
+Installing collected packages: altgraph, pywin32-ctypes, pyinstaller-hooks-contrib, pefile, Pyinstaller
+
+Successfully installed Pyinstaller-6.16.0 altgraph-0.17.4 pefile-2023.2.7 pyinstaller-hooks-contrib-2025.9 pywin32-ctypes-0.2.3
+[End] : Successful !!!
+[COMMAND] : "C:\Program Files\Python\Python310\python.exe" -m pip install Pyinstaller
+Requirement already satisfied: Pyinstaller in c:\program files\python\python310\lib\site-packages (6.16.0)
+Requirement already satisfied: altgraph in c:\program files\python\python310\lib\site-packages (from Pyinstaller) (0.17.4)
+Requirement already satisfied: packaging>=22.0 in c:\program files\python\python310\lib\site-packages (from Pyinstaller) (25.0)
+Requirement already satisfied: pefile!=2024.8.26,>=2022.5.30 in c:\program files\python\python310\lib\site-packages (from Pyinstaller) (2023.2.7)
+Requirement already satisfied: pyinstaller-hooks-contrib>=2025.8 in c:\program files\python\python310\lib\site-packages (from Pyinstaller) (2025.9)
+Requirement already satisfied: pywin32-ctypes>=0.2.1 in c:\program files\python\python310\lib\site-packages (from Pyinstaller) (0.2.3)
+Requirement already satisfied: setuptools>=42.0.0 in c:\program files\python\python310\lib\site-packages (from Pyinstaller) (65.5.0)
+[End] : Successful !!!
+[COMMAND] : "C:\Program Files\Python\Python310\python.exe" -m pip install Pyinstaller
+Requirement already satisfied: Pyinstaller in c:\program files\python\python310\lib\site-packages (6.16.0)
+Requirement already satisfied: altgraph in c:\program files\python\python310\lib\site-packages (from Pyinstaller) (0.17.4)
+Requirement already satisfied: packaging>=22.0 in c:\program files\python\python310\lib\site-packages (from Pyinstaller) (25.0)
+Requirement already satisfied: pefile!=2024.8.26,>=2022.5.30 in c:\program files\python\python310\lib\site-packages (from Pyinstaller) (2023.2.7)
+Requirement already satisfied: pyinstaller-hooks-contrib>=2025.8 in c:\program files\python\python310\lib\site-packages (from Pyinstaller) (2025.9)
+Requirement already satisfied: pywin32-ctypes>=0.2.1 in c:\program files\python\python310\lib\site-packages (from Pyinstaller) (0.2.3)
+Requirement already satisfied: setuptools>=42.0.0 in c:\program files\python\python310\lib\site-packages (from Pyinstaller) (65.5.0)
+[End] : Successful !!!
+[COMMAND] : "C:\Program Files\Python\Python310\python.exe" -m pip install Pyinstaller
+Requirement already satisfied: Pyinstaller in c:\program files\python\python310\lib\site-packages (6.16.0)
+Requirement already satisfied: altgraph in c:\program files\python\python310\lib\site-packages (from Pyinstaller) (0.17.4)
+Requirement already satisfied: packaging>=22.0 in c:\program files\python\python310\lib\site-packages (from Pyinstaller) (25.0)
+Requirement already satisfied: pefile!=2024.8.26,>=2022.5.30 in c:\program files\python\python310\lib\site-packages (from Pyinstaller) (2023.2.7)
+Requirement already satisfied: pyinstaller-hooks-contrib>=2025.8 in c:\program files\python\python310\lib\site-packages (from Pyinstaller) (2025.9)
+Requirement already satisfied: pywin32-ctypes>=0.2.1 in c:\program files\python\python310\lib\site-packages (from Pyinstaller) (0.2.3)
+Requirement already satisfied: setuptools>=42.0.0 in c:\program files\python\python310\lib\site-packages (from Pyinstaller) (65.5.0)
+[End] : Successful !!!
